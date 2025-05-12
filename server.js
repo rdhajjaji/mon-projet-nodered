@@ -10,7 +10,7 @@ app.use("/", express.static("public"));
 // Configuration de Node-RED
 const settings = {
   httpAdminRoot: "/red",
-  httpNodeRoot: "/api",
+  httpNodeRoot: "/",
   userDir: "./nodered",
   functionGlobalContext: {},
 
