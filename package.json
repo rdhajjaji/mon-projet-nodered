@@ -8,6 +8,7 @@
     "dependencies": {
         "express": "^4.21.2",
         "node-red": "^3.1.15",
+        "@studiobox/node-red-contrib-ui-widget-thermometer": "~0.7.7",
         "node-red-dashboard": "^3.6.5"
     },
     "keywords": [],
