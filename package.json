@@ -1,0 +1,18 @@
+{
+    "name": "mon-nodered-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "node-red": "^3.1.15",
+        "node-red-dashboard": "^3.6.5"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "description": ""
+}
